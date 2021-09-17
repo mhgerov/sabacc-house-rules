@@ -1,0 +1,167 @@
+= Sabacc House Rules
+
+== The Deal
+
+Players place antes to the main pot and the sabacc pot.
+Dealer shuffles the deck gives three down cards and one up card to each player.
+The dealer lays seven cards on the board.
+One of the board cards is the discard pile.
+
+== The Hand
+
+The hand consists of three rounds of betting, drawing, and spikes.
+Then there's a final fourth betting round.
+
+=== Betting Phase
+
+Betting is modeled after the ante/bring-in system in stud poker. 
+It is fixed-limit betting with a max of one bet plus four raises.
+The first two betting rounds are small bet and last two are big bet size.
+
+The first betting round has a mandatory bring-in bet from the player with the highest absolute value face-up card.
+If there's a tie, positive number pays bring-in and after that whichever one is left of the dealer.
+
+=== Draw Phase
+
+Buy board card
+Draw from the stub
+Stay
+
+=== Spike Phase
+
+Doubles: Players muck pocket cards and dealer replaces with same number of cards
+Spikes: All players cards are mucked and replaced
+
+
+== The Showdown
+
+Last aggressor shows their hand first.
+Best hand takes the main pot.
+Winner takes the sabacc pot if it's Banthas Wild or better.
+
+.Hand Rankings
+[cols="^1,^2,^4,^2,>1"]
+|===
+| Rank | Name | Description | Example | Odds Against
+
+| 1
+| Dreadnoughts
+| 4-of-a-kind 10s and Sylops
+| +10 +10 0 -10 -10
+| 360,500
+
+| 2
+| Rhylet Neat
+| Same integer 3-of-a-kind and same integer pair
+| +4 +4 +4 -6 -6
+| 360,500
+
+| 3
+| Krayt Dragon
+| Same integer 3-of-a-kind and Sylops
+| 0 +3 +3 +3 -9
+| 179,750
+
+| 4
+| Idiots Full
+| Both Sylops and same integer pair
+| 0 0 +3 +3 -6
+| 71,900
+
+| 5
+| Echelon
+| Uneven 4-of-a-kind and balancer card
+| +1 +1 +1 -1 -2 
+| 71,900
+
+| 6
+| Fleet
+| 4-of-a-kind (except 10s) and Sylops
+| +7 +7 0 -7 -7 
+| 39,944
+
+| 7
+| Tusken File
+| same integer 3-of-a-kind and 1 opposite card
+| +3 +3 +3 -9 
+| 30,990
+
+| 8
+| Rhylet Stirred
+| Mixed integer 3-of-a-kind and pair
+| +2 +2 -2 -1 -1
+| 23,966
+
+| 9
+| Uttini!
+| 0 +1 +2 +3 -6 or inverse
+| 0 -1 -2 -3 +6
+| 19,971
+
+| 10
+| Gee Whizz!
+| +1 +2 +3 +4 -10 or inverse
+| -1 -2 -3 -4 +10
+| 13,314
+
+| 11 
+| Dewbacks 
+| same integer 3-of-a-kind 5-card hand
+| +3 +3 +3 -7 -2 
+| 13,314
+
+| 12
+| Squadron
+| 4-of-a-kind
+| -2 -2 +2 +2 
+| 6,197
+
+| 13
+| The Idiots
+| Both Sylops cards, with pair or 3 rainbow cards. Pair beats rainbow
+| 0 0 -3 +3 +
+0 0 -1 -2 +3
+| 2,970
+
+| 14
+| Idiot's Array
+| 4-straight and Sylops
+| 0 +4 -5 -6 +7
+| 2,852
+
+| 15
+| Banthas Wild
+| Mixed integer 3-of-a-kind
+| +3 +3 -3 -2 -1
+| 665
+
+| 16
+| Straight Khyron
+| 4-straight
+| +2 -3 -4 +5
+| 491
+
+| 17
+| Yee-Haa
+| Two-pair and Sylops
+| 0 -2 +2 -3 +3 
+| 221
+
+| 18
+| Rule of Two
+| Two-pair
+| -7 +7 -9 +9
+| 76
+
+| 19
+| Sabacc
+| Sum equals zero. Pair beats other tiebreakers
+| +1 +4 -3 -2
+
+| 20 
+| Nuhlrek
+| Sum does not equal zero:w
+| +2 +3 -4 -8
+
+
+|===
