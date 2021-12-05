@@ -50,6 +50,8 @@ The drawn card can be added to either the face-up or the face-down cards in the 
 The player also has the option of discarding any card, including the drawn card.
 The discarded card is laid face-up on the discard pile.
 
+In the rare case that the stub is exhausted, players can only take from the board, but without being required to pay to the sabacc pot.
+
 [discrete]
 ==== Stay
 
@@ -58,9 +60,15 @@ Wave your hand over your face-up cards if you want to pass on taking a card.
 
 === Spike Phase
 
-Doubles: Players muck pocket cards and dealer replaces with same number of cards
+The dealer rolls the dice.
 
-Spikes: All players cards are mucked and replaced
+If they roll doubles (except spikes), all players turn in their pocket cards to the dealer.
+The dealer may keep track what number of pocket cards each player had with tokens.
+The dealer shuffles the discarded pocket cards and the stub together.
+Each player is dealt the same number of cards they turned in.
+
+If double spikes are rolled, both face-up and face-down cards are shuffled with the stub.
+Players are dealt three cards face-down and one face-up like an initial deal.
 
 <<<
 
