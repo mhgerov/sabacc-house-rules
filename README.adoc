@@ -15,7 +15,7 @@ Then there's a final fourth betting round.
 === Betting Phase
 
 Betting is modeled after the ante/bring-in system in stud poker. 
-It is fixed-limit betting with a max of one bet plus four raises.
+It is fixed-limit betting with a max of one bet plus three raises.
 The first two betting rounds are small bet and last two are big bet size.
 
 The first betting round has a mandatory bring-in bet from the player with the highest absolute value face-up card.
@@ -221,7 +221,14 @@ Recalculate the sums to determine winner.
 == Common Betting Structures
 
 |===
-| Main Pot Ante | Sabacc Pot Ante | Bring-in | Small Bet | Big Bet
+| Main Pot Ante | Sabacc Pot Ante | Bring-in | Small Bet | Big Bet | Buy-in
+
+| 5¢
+| 5¢
+| 20¢
+| 50¢
+| $1
+| $20
 
 | 1
 | 1
