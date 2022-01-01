@@ -223,6 +223,13 @@ Recalculate the sums to determine winner.
 |===
 | Main Pot Ante | Sabacc Pot Ante | Bring-in | Small Bet | Big Bet | Buy-in
 
+| 3¢
+| 2¢
+| 10¢
+| 25¢
+| 50¢
+| $10
+
 | 5¢
 | 5¢
 | 20¢
