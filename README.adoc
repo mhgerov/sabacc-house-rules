@@ -37,7 +37,7 @@ The acquired board card will become a face-up card.
 A player cannot swap their last pocket card for a board card.
 A player cannot have more than five cards in their hand.
 
-If the player keeps the board card without swapping, the dealer replaces the missing board card with one from the discard pile.
+If the player keeps the board card without swapping, the dealer replaces the missing board card with one from the top of the discard pile.
 If the discard pile is empty after replacing, the dealer places a card in the discard pile from the stub. 
 
 [discrete]
@@ -218,66 +218,25 @@ Recalculate the sums to determine winner.
 <<<
 
 [appendix]
-== Common Betting Structures
+== Common Betting Structures for Cash Games
 
 |===
-| Main Pot Ante | Sabacc Pot Ante | Bring-in | Small Bet | Big Bet | Buy-in
+| Main Pot Ante | Sabacc Pot Ante | Bring-in | Small Bet | Big Bet | Max Buy-in
 
 | 3¢
 | 2¢
 | 10¢
 | 25¢
 | 50¢
-| $10
+| $20
 
 | 5¢
 | 5¢
 | 20¢
 | 50¢
 | $1
-| $20
-
-| 1
-| 1
-| 3
-| 8
-| 16
-
-| 1
-| 1
-| 4
-| 10
-| 20
-
-| 2
-| 1 
-| 6
-| 15
-| 30
-
-| 3
-| 2
-| 10
-| 20
-| 20
-
-| 5
-| 5
-| 20
-| 50
-| 100
-
-| 15
-| 10
-| 50
-| 75
-| 150
-
-| 15
-| 10
-| 50
-| 100
-| 200
+| $40
 
 |===
 
+// https://www.pokerlistings.com/poker-rules-7-card-stud
