@@ -46,9 +46,15 @@ If the discard pile is empty after replacing, the dealer places a card in the di
 Draw for free from the stub.
 The player can indicate this non-verbally by double-tapping the table.
 
-The drawn card can be added to either the face-up or the face-down cards in the hand. 
-The player also has the option of discarding any card, including the drawn card.
-The discarded card is laid face-up on the discard pile.
+The dealer will give the player a card face-down. The player may:
+
+* Add it to their face-down cards in their hand
+* Turn it up and add to their face-up cards
+* Decide not to keep it and discard it
+
+The player may optionally discard a card from their hand at the same time.
+They need to lay a card from their hand next to the dealt card before taking the new one.
+The player is required to discard if they already have 5 cards in their hand.
 
 In the rare case that the stub is exhausted, players can only take from the board, but without being required to pay to the sabacc pot.
 
@@ -157,7 +163,7 @@ Winner takes the sabacc pot if it's Banthas Wild or better.
 
 | 13
 | The Idiots
-| Both Sylops cards, with pair or 3 rainbow cards. Pair beats rainbow
+| Both Sylops cards
 | 0 0 -3 +3 +
 0 0 -1 -2 +3
 | 2,970
@@ -194,7 +200,7 @@ Winner takes the sabacc pot if it's Banthas Wild or better.
 
 | 19
 | Sabacc
-| Sum equals zero. Pair beats other tiebreakers
+| Sum equals zero. Pair > Sylops.
 | +1 +4 -3 -2
 |
 
