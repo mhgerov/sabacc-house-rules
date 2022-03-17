@@ -45,7 +45,6 @@ In the case that the player wishes to swap with the board, they need to throw th
 
 Draw for free from the stub.
 
-<<<<<<< HEAD
 The player can indicate that they wish to draw by double-tapping the table.
 The dealer will lay a card from the stub face-down in front of the player.
 
@@ -54,17 +53,6 @@ The player will peak at the card and can take one of the following actions:
 * Take the drawn card and add to face-down cards
 * Discard a card from the hand FIRST, then take the drawn card
 * Push back the drawn card to discard it. The card is mucked by the dealer
-=======
-The dealer will give the player a card face-down. The player may:
-
-* Add it to their face-down cards in their hand
-* Turn it up and add to their face-up cards
-* Decide not to keep it and discard it
-
-The player may optionally discard a card from their hand at the same time.
-They need to lay a card from their hand next to the dealt card before taking the new one.
-The player is required to discard if they already have 5 cards in their hand.
->>>>>>> 710b6c490f6031ac2850b023df06c29037e0f40a
 
 In the rare case that the stub is exhausted, players can only take from the board, but without being required to pay to the sabacc pot.
 
