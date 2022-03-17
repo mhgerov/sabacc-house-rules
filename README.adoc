@@ -64,15 +64,19 @@ Wave your hand over your face-up cards if you want to pass on taking a card.
 
 === Spike Phase
 
-The dealer rolls the dice.
+Starting to the left of the button, players will be given an opportunity to turn any face-down cards into face-up cards to protect them from the spike dice.
+The player must always have at least one face-down card.
+
+The button will then roll the dice.
 
 If they roll doubles (except spikes), all players turn in their pocket cards to the dealer.
 The dealer may keep track what number of pocket cards each player had with tokens.
 The dealer shuffles the discarded pocket cards and the stub together.
 Each player is dealt the same number of cards they turned in.
 
-If double spikes are rolled, both face-up and face-down cards are shuffled with the stub.
-Players are dealt three cards face-down and one face-up like an initial deal.
+If double spikes are rolled, the face-down cards are mixed the same as with normal doubles.
+In addtion, each player needs to pick a face-up card.
+The face-up cards are shuffled and dealt, one to each player.
 
 <<<
 
