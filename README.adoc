@@ -14,12 +14,9 @@ Then there's a final fourth betting round.
 
 === Betting Phase
 
-Betting is modeled after the ante/bring-in system in stud poker. 
-It is fixed-limit betting with a max of one bet plus three raises.
-The first two betting rounds are small bet and last two are big bet size.
+Blinds are similar to Texas hold'em except that the small blinds pays to the Sabacc pot while the big blind pays to the main pot.
 
-The first betting round has a mandatory bring-in bet from the player with the highest absolute value face-up card.
-If there's a tie, positive number pays bring-in and after that whichever one is left of the dealer.
+Sabacc is by default no-limit. Refer to Tournament Director's Association rules for the nuances of betting.
 
 === Draw Phase
 
@@ -28,7 +25,8 @@ Starting to the left of the dealer, each player can choose one of three actions:
 [discrete]
 ==== Buy board card
 
-The player can pay the main pot ante for a card from the board.
+The player can pay a small amount for a card from the board.
+The blinds schedule will dictate the exact cost.
 The player can indicate this non-verbally by placing payment on the desired board card.
 
 The payment goes to the sabacc pot.
@@ -218,24 +216,52 @@ Recalculate the sums to determine winner.
 <<<
 
 [appendix]
-== Common Betting Structures for Cash Games
+== Example Blinds Schedule
 
 |===
-| Main Pot Ante | Sabacc Pot Ante | Bring-in | Small Bet | Big Bet | Max Buy-in
+| Level | Sabacc Blind (Small) | Main Blind (Big) | Board Card Price | Time
 
-| 3¢
-| 2¢
-| 10¢
-| 25¢
-| 50¢
-| $20
+| 1
+| $50
+| $100
+| $25
+| +0:00
 
-| 5¢
-| 5¢
-| 20¢
-| 50¢
-| $1
-| $40
+| 2
+| $100
+| $200
+| $50
+| +0:20
+
+| 3
+| $200
+| $400
+| $75
+| +0:40
+
+| 4
+| $400
+| $800
+| $150
+| +1:00
+
+| 5
+| $800
+| $1600
+| $300
+| +1:20
+
+| 6
+| $1500
+| $3000
+| $500
+| +1:40
+
+| 7
+| $3000
+| $6000
+| $1000
+| +2:00
 
 |===
 
