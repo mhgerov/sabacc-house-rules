@@ -27,7 +27,6 @@ Starting to the left of the dealer, each player can choose one of three actions:
 
 The player can pay a small amount for a card from the board.
 The blinds schedule will dictate the exact cost.
-The player can indicate this non-verbally by placing payment on the desired board card.
 
 The payment goes to the sabacc pot.
 They can choose to take the card only or swap with a card from their hand.
@@ -38,15 +37,22 @@ A player cannot have more than five cards in their hand.
 If the player keeps the board card without swapping, the dealer replaces the missing board card with one from the top of the discard pile.
 If the discard pile is empty after replacing, the dealer places a card in the discard pile from the stub. 
 
+To signal buying a board card, place payment on the desired card on the board.
+In the case that the player wishes to swap with the board, they need to throw the discarded card next to the board before payment.
+
 [discrete]
 ==== Draw from the Stub
 
 Draw for free from the stub.
-The player can indicate this non-verbally by double-tapping the table.
 
-The drawn card can be added to either the face-up or the face-down cards in the hand. 
-The player also has the option of discarding any card, including the drawn card.
-The discarded card is laid face-up on the discard pile.
+The player can indicate that they wish to draw by double-tapping the table.
+The dealer will lay a card from the stub face-down in front of the player.
+
+The player will peak at the card and can take one of the following actions:
+
+* Take the drawn card and add to face-down cards
+* Discard a card from the hand FIRST, then take the drawn card
+* Push back the drawn card to discard it. The card is mucked by the dealer
 
 In the rare case that the stub is exhausted, players can only take from the board, but without being required to pay to the sabacc pot.
 
